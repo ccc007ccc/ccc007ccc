@@ -13,11 +13,6 @@
 
 <br/>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ccc007ccc&show_icons=true&locale=cn&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccc007ccc&layout=compact&locale=cn&hide_border=true&theme=tokyonight&langs_count=6&cache_seconds=1800" />
-</div>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ccc007ccc&locale=zh_Hans&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
